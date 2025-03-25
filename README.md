@@ -16,4 +16,4 @@ This assignment uses the Euler method to simulate projectile motion with varying
 
 Assignment 4: Fourier Analysis
 
-This assignment uses the Fourier series to approximate periodic and non-periodic functions for signal analysis. 
+This assignment uses the Fourier series and Fourier transform to approximate periodic and non-periodic functions for signal analysis. Code implements the Discrete Fourier Transform (DFT) of a signal with noise filtration. 
