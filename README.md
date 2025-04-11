@@ -17,3 +17,8 @@ This assignment uses the Euler method to simulate projectile motion with varying
 Assignment 4: Fourier Analysis
 
 This assignment uses the Fourier series and Fourier transform to approximate periodic and non-periodic functions for signal analysis. Code implements the Discrete Fourier Transform (DFT) of a signal with noise filtration. 
+
+Assignment 5: Curve Fitting, Optimization, and Finite Difference Methods
+
+This assignment explored using the least-squares method to fit nonlinear curves to datasets using SciPy Optimize with the Nelder-Mead optimization method to minimize the $\chi^{2}$. 
+The Finite Difference Method was employed to simulate the electric potential of a point source charge in the center of a 2D grid, bound by grounded walls. 
